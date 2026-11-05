@@ -8,18 +8,31 @@ Full report: AD_Home_Lab_Project_Report_v2.pdf
 
 Tools Used
 Windows Server — Active Directory domain controller (lab1.local)
+
 Windows 11 Pro — Domain-joined target workstation
+
 Splunk Enterprise — SIEM for log collection and search
+
 Splunk Universal Forwarder — Sends Windows event logs to Splunk
+
 Sysmon — Detailed endpoint telemetry
+
 Kali Linux — Attack platform
+
 NetExec — RDP brute forcing
+
 Atomic Red Team — MITRE ATT&CK technique simulation
+
 Skills Demonstrated
+
 Active Directory setup and administration (OUs, users, domain join)
+
 SIEM deployment and log forwarding
+
 Windows event log analysis (Event IDs 4624, 4625, 4634)
+
 Attack simulation and MITRE ATT&CK mapping
+
 Troubleshooting (DNS, Windows editions, time sync)
 
 
