@@ -17,8 +17,3 @@ Tools
 
 Splunk Enterprise · Splunk Universal Forwarder · Sysmon · Active Directory · Kali Linux · NetExec · Atomic Red Team
 
-Key Takeaways
-
-A domain-joined machine has to use the domain controller for DNS.
-A wrong clock on the domain controller made the logs look like they were missing.
-This was my first time using a SIEM and Atomic Red Team. It was good practice in reading logs and seeing how attacks map to MITRE ATT&CK.
